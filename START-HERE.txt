@@ -1,0 +1,1 @@
+Open index.html to preview the website. Read README.md before deployment. Donation and prayer forms are preview-only until a secure backend is configured.
